@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **testing, azuredevops,**
 
-- 📫 How to reach me **dannybarrientos@gmail.com**
+- 📫 How to reach me **dannybarrientosagudelo@gmail.com**
 
 
 - ⚡ Fun fact **I like to walk**
