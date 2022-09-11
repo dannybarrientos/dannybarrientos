@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS Blue/Greenn, Udemy React To Pro by Fernando Herrera**
 
-- 👯 I’m looking to collaborate on [Azure DevOps For Testing Funcional](https://dev.azure.com/dannybarrientosagudelo/dannybarrientosagudelo)
+- 👯 Here I have several integrations with different tools on [Azure DevOps For Testing Funcional](https://dev.azure.com/dannybarrientosagudelo/dannybarrientosagudelo)
 
 - 💬 Ask me about **testing, azuredevops,**
 
