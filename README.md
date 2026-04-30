@@ -1,61 +1,75 @@
-<h1 align="center">Hi 👋, I'm Danny Andres Barrientos Agudelo</h1>
+# 👋 Hello, I'm Danny Andres Barrientos Agudelo
 
-<h3 align="center">A passionate software developer in test from Colombia</h3>
+### 🧪 Software Developer in Test | QA Automation | Full Stack Enthusiast
+📍 Colombia | 🌐 [LinkedIn](https://linkedin.com/in/dannybarrientos) | ✉️ [dannybarrientosagudelo@gmail.com](mailto:dannybarrientosagudelo@gmail.com)
 
+---
 
-- 🔭 I’m currently working on construction of a [System PQRS](http://sistemaprspactual.herokuapp.com/iniciar-sesion) for practice Full Stack Developer 
+## 🚀 About Me
 
-- 🌱 I’m currently learning **AWS Blue/Green and Udemy React To Pro by Fernando Herrera**
+I am a passionate **Software Developer in Test** based in Colombia, focused on ensuring software quality through robust testing strategies and automation. Currently, I am developing a **PQRS System** as a Full Stack practice project, while expanding my expertise in cloud deployment strategies and modern frontend frameworks.
 
-- 👯 Here I have several integrations with different tools on [Azure DevOps For Testing Funcional](https://dev.azure.com/dannybarrientosagudelo/dannybarrientosagudelo)
+### 🔭 Current Projects
+- **PQRS System**: Full Stack development focused on best practices and scalable architecture.
+- **Azure DevOps Integrations**: Implementing functional testing pipelines and CI/CD strategies.
 
-- 💬 Ask me about **testing, azuredevops,**
+### 🌱 Currently Learning
+- ☁️ **AWS**: Blue/Green deployment strategies for zero-downtime releases.
+- ⚛️ **React**: Advanced patterns and best practices (via Fernando Herrera's curriculum).
+- 🔄 **DevOps**: Strengthening skills in Azure DevOps for test automation.
 
-- 📫 How to reach me **dannybarrientosagudelo@gmail.com**
+---
 
+## 💼 Technical Skills
 
-- ⚡ Fun fact **I like to walk**
-
-
-
-<h3 align="left">Connect with me:</h3>
+### Languages & Frameworks
 <p align="left">
-
-<a href="https://linkedin.com/in/dannybarrientos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dannybarrientos" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Testing & QA
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
- 
- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+</p>
 
- 
- 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="c#" width="40" height="40"/>   
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
- 
- 
+### DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
- 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
- <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+---
 
+## 📊 GitHub Statistics
 
- <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-  </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-  </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dannybarrientos&show_icons=true&theme=radical&hide_border=true" alt="Danny's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannybarrientos&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
+---
 
+## 🤝 Let's Connect
+
+I am always open to discussing opportunities in **QA Automation**, **Testing Strategies**, and **Full Stack Development**.
+
+<p align="left">
+  <a href="mailto:dannybarrientosagudelo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/dannybarrientos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+> *"Quality is not an act, it is a habit."* — Aristotle
+
+⭐️ If you find my projects useful, please consider starring them!
