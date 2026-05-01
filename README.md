@@ -1,6 +1,6 @@
 # Hi there! I'm Danny Barrientos 🚀
 
-**Senior QA Automation Engineer | Tech Mentor | Technical Writer**
+**Senior Developer Enginner in Test | Tech Mentor | Technical Writer**
 
 Software Engineer based in Medellín, Colombia. I specialize in building robust quality ecosystems, accelerating the software development lifecycle through intelligent automation, DevOps, and **Agentic AI** workflows.
 
