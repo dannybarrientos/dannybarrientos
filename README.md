@@ -1,30 +1,37 @@
 # Hi there! I'm Danny Barrientos 🚀
 
-**Senior Developer Enginner in Test | Tech Mentor | Technical Writer**
+**Software Development Engineer in Test| Tech Mentor | Technical Writer**
 
-Software Engineer based in Medellín, Colombia. I specialize in building robust quality ecosystems, accelerating the software development lifecycle through intelligent automation, DevOps, and **Agentic AI** workflows.
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/danny-andres-barrientos-agudelo/) [![Medium](https://img.shields.io/badge/Read-Medium-black?style=flat-square&logo=medium)](https://medium.com/@dannybarrientos12) [![YouTube](https://img.shields.io/badge/Watch-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=MWDWFmLoClk)
+
+Software Engineer based in Medellín, Colombia. I specialize in building robust quality ecosystems, accelerating the software development lifecycle through intelligent automation, DevOps, and **Agentic AI** workflows. 
 
 ---
+
+### 🔭 Highlighted Initiatives
+- 🤖 **AI Engineering Framework:** Developing an automated orchestration system utilizing AI agents to manage and automate the software lifecycle across 100+ repositories, from requirements to deployment.
+- 🧪 **Advanced QA Architectures:** Implementing high-scale testing strategies using **SerenityBDD**, Screenplay Pattern, and Gherkin.
+- ⚙️ **Modern DevOps:** Leveraging the Model Context Protocol (MCP) to enhance automation and RAG-based workflows.
 
 ### 💻 Currently Working With
 
-| Language | Primary Use Case | Active Repositories |
+| Language | Primary Use Case | Active Repositories (Click to view) |
 | :--- | :--- | :--- |
-| **Java 17** | Mobile & Web Automation | `mobile-appium-automation-serenitybdd`, `webdriverio-serenityjs` |
-| **TypeScript** | E2E Testing & Frontend | `cypress-allure-github-action`, `PQRS System` |
-| **JavaScript** | Test Scripting & Tooling | `cypress-allure-github-action`, `patronesdeautomatizacion` |
-| **Ruby** | OOP & Automation Scripts | `learningruby` |
-| **Gherkin** | BDD Scenario Definition | `cypress-allure-github-action`, `patronesdeautomatizacion` |
-| **HTML/CSS** | UI & Documentation | `PQRS System`, `Technical Docs` |
+| **Java 17** | Mobile & Web Automation | [mobile-appium-automation-serenitybdd](https://github.com/dannybarrientos/mobile-appium-automation-serenitybdd) <br> [webdriverio-serenityjs](https://github.com/dannybarrientos/webdriverio-serenityjs) |
+| **TypeScript** | E2E Testing & Frontend | [cypress-allure-github-action](https://github.com/dannybarrientos/cypress-allure-github-action) <br> [PQRS System](https://github.com/dannybarrientos/PQRS-System) |
+| **JavaScript** | Test Scripting & Tooling | [patronesdeautomatizacion](https://github.com/dannybarrientos/patronesdeautomatizacion) |
+| **Ruby** | OOP & Automation Scripts | [learningruby](https://github.com/dannybarrientos/learningruby) |
 
----
+### 🏆 Certifications & Education
+- **Scrum Master Agile**
+- **Education:** Software Engineer with a specialization in Software Engineering (Universidad de Medellín).
 
 ### ✍️ Public Speaking & Mentorship
 - 📑 **Medium:** [Integrating GitHub and Sonar in Azure DevOps](https://medium.com/@dannybarrientos12/integrar-github-y-sonar-en-azure-devops-44b09366ba7f) — CI/CD & Static Analysis guide.
 - 🎥 **YouTube:** [Azure DevOps for Functional Test Automation](https://www.youtube.com/watch?v=MWDWFmLoClk) — Featured webinar with Argentesting.
-- 🎓 **Education:** Experienced technical instructor; I've designed and delivered multiple courses on Automation and DevOps.
+- 🎓 **Instructor:** Designed and delivered multiple courses on Automation and DevOps for technical communities.
 
-### 💼 Technical Skills
+### 💼 Technical Stack
 
 #### 🧪 Testing & Automation
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/-Appium-6222C0?style=flat&logo=appium&logoColor=white) ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![SerenityBDD](https://img.shields.io/badge/-SerenityBDD-2072B8?style=flat)
@@ -43,18 +50,11 @@ Software Engineer based in Medellín, Colombia. I specialize in building robust 
 
 ---
 
-### 💼 Professional Status & Interests
-Currently at **Wompi (Bancolombia)**. Open to networking regarding disruptive tech, AI agents, or high-impact QA architectures.
+### 💼 Professional Status & Personal Interests
+Currently driving quality for payment platforms at **Wompi (Bancolombia)**. Open to networking regarding disruptive tech, AI agents, or high-impact QA architectures.
 
 - 🥋 **Martial Arts:** Aiming for the Shaolin Temple.
-- 🥬 **Sustainability:** Commercial Hydroponics project.
+- 🥬 **Agri-Tech:** Commercial Hydroponics project.
 - 🏔️ **Nature:** Hiking, cycling, and family barbecues.
-
----
-
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DannyBarrientos-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/danny-andres-barrientos-agudelo/)
-[![Medium](https://img.shields.io/badge/Medium-DannyBarrientos-black?style=flat-square&logo=medium)](https://medium.com/@dannybarrientos12)
-[![YouTube](https://img.shields.io/badge/YouTube-Webinars-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=MWDWFmLoClk)
 
 *"Live and be happy; the most important thing is to share the knowledge."*
